@@ -13,3 +13,13 @@ pip install -r requirements.txt
 
 Use `Jupyter Notebook` to run the code
 
+
+## Using csv files
+
+Insert the ratings.csv file path in `C:\ratings.csv` and movies.csv file path in `C:\movies.csv`
+
+
+
+
+
+
