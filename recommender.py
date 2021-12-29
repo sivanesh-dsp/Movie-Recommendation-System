@@ -15,14 +15,14 @@ import pandas as pd
 # In[2]:
 
 
-data = pd.read_csv('C:/Users/sivan/Documents/movierecommendation/ratings.csv')
+data = pd.read_csv('C:/ratings.csv')
 data.head(10)
 
 
 # In[3]:
 
 
-movie_titles_genre = pd.read_csv("C:/Users/sivan/Documents/movierecommendation/movies.csv")
+movie_titles_genre = pd.read_csv("C:/movies.csv")
 movie_titles_genre.head(10)
 
 
